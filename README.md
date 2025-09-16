@@ -1,2 +1,9 @@
 # Cheatsheets
-A collection of quick reference guides for multiple programming languages.
+A collection of easy-to-use cheatsheets for various programming languages and tools.
+
+## Content
+  - [__Python__]()
+  - [__Java__]()
+  - [__PHP__]()
+  - [__Dart__]()
+  - [__VSCode__]()
